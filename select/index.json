@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "トラフィック・ジャム",
+  "base_artist": "煮ル果実",
+  "createdAt": "2026-02-17T02:34:08.619457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム - Traffic Jam",
+      "artist": "NILFRUITS",
+      "has_synced": true,
+      "path": "select/01_トラフィック・ジャム_-_Traffic_Jam_NILFRUITS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Traffic Jam (トラフィック・ジャム)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_Traffic_Jam_(トラフィック・ジャム)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム",
+      "artist": "煮ル果実",
+      "has_synced": true,
+      "path": "select/03_トラフィック・ジャム_煮ル果実.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム - Traffic Jam (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_トラフィック・ジャム_-_Traffic_Jam_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム",
+      "artist": "NILFRUITS",
+      "has_synced": true,
+      "path": "select/05_トラフィック・ジャム_NILFRUITS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム",
+      "artist": "煮ル果実",
+      "has_synced": true,
+      "path": "select/06_トラフィック・ジャム_煮ル果実.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム",
+      "artist": "小豆沢こはね (秋奈), 白石杏 (鷲見友美ジェナ), 東雲彰人 (今井文也), 青柳冬弥 (伊東健人), 鏡音リン",
+      "has_synced": false,
+      "path": "select/07_トラフィック・ジャム_小豆沢こはね_(秋奈),_白石杏_(鷲見友美ジェナ),_東雲彰人_(今井文也),_青柳冬弥_(伊東健人),_鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_トラフィック・ジャム_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トラフィック・ジャム",
+      "artist": "小豆沢こはね",
+      "has_synced": false,
+      "path": "select/09_トラフィック・ジャム_小豆沢こはね.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トラフィック・ジャム",
+      "artist": "煮ル果実",
+      "has_synced": false,
+      "path": "select/pl_01_トラフィック・ジャム_煮ル果実.txt"
+    }
+  ]
+}
